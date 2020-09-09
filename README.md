@@ -1,9 +1,9 @@
 Just put together some stuff which I felt were quite ingenious and powerful. Most of them are just functions of existing python libraries. While some of them are for enhancing computational speed, some others are for convinience which you didn't know you could have.
 I will keep updating as and when I encounter more such things.
 
-- [Pickle](#heading)
-- [Subprocess](#heading)
-- [Map](#heading)
+- [Pickle](#pickle)
+- [Subprocess](#subprocess)
+- [Map](#map)
 
 ## Pickle
 
@@ -23,4 +23,4 @@ output = popen.stdout.read()
 output = output.decode("utf-8")
 ```
 
-## Heading
+## Map
