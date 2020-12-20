@@ -1,5 +1,4 @@
-Just put together some content which I felt were quite ingenious and powerful. Most of them are just functions of existing python libraries. While some of them are for enhancing computational speed, some others are for convinience which you didn't know you could have!  
-I will keep updating as and when I encounter more such things.
+Put together some content which I felt were quite ingenious and powerful. Most of them are just functions of existing python libraries. While some of them are for enhancing computational speed, some others are for convinience which you didn't know you could have!  
 
 - [Pickle](#pickle)
 - [Subprocess](#subprocess)
@@ -35,3 +34,6 @@ output = output.decode("utf-8")
 ```
 
 ## Map
+
+
+Will add more such functions as and when I come across them..
