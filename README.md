@@ -2,7 +2,8 @@ Put together some content which I felt were quite ingenious and powerful. Most o
 
 - [Pickle](#pickle)
 - [Subprocess](#subprocess)
-- [Map](#map)
+
+[//]: # "- [Map](#map)"
 
 ## Pickle
 
@@ -33,7 +34,7 @@ output = popen.stdout.read()
 output = output.decode("utf-8")
 ```
 
-## Map
+[//]: # "## Map"
 
 
 Will add more such functions as and when I come across them..
