@@ -7,6 +7,17 @@ I will keep updating as and when I encounter more such things.
 
 ## Pickle
 
+```Python
+from pickle import dump
+from pickle import load
+                                    #Use load to feed data to variable
+names = load(open('greekgods.pkl', 'rb'))
+print(names)
+                                    #Store required data using dump
+flip = shuffle(names)
+dump(flip, open('flipped.pkl', 'wb'))
+```
+
 ## Subprocess
 
 ```Python
