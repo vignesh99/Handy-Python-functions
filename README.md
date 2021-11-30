@@ -1,4 +1,4 @@
-Put together some content which I felt were quite ingenious and powerful. Most of them are just functions of existing python libraries. While some of them are for enhancing computational speed, some others are for convinience which you didn't know you could have!  
+Listed below are a set of functions from existing python libraries. Some of them are for enhancing computational speed, and others are for convinience. 
 
 - [Pickle](#pickle)
 - [Subprocess](#subprocess)
